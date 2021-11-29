@@ -36,4 +36,4 @@ au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g
 
 map <leader>jd :YcmCompleter GoToDeclaration<CR>
 
-source /home/antoine/.nvim/lsp/vimrc.generated
+source ~/.vim/lsp/vimrc.generated
