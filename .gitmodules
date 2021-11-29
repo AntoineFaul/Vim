@@ -1,6 +1,7 @@
 [submodule "lsp"]
 	path = lsp
-	url = https://github.com/ycm-core/lsp-examples.git
+  url = https://github.com/ycm-core/lsp-examples.git
+  ignore = dirty
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://tpope.io/vim/fugitive.git
