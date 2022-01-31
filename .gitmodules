@@ -37,7 +37,7 @@
 	url = https://github.com/prettier/vim-prettier
 [submodule "bundle/vim-tmux-navigator"]
 	path = bundle/vim-tmux-navigator
-	url = https://github.com:christoomey/vim-tmux-navigator.git
+	url = https://github.com/christoomey/vim-tmux-navigator.git
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe
